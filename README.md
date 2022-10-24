@@ -17,4 +17,4 @@ https://www.patika.dev/tr
           [8,11,12,16,21,22]
 
 2-Big-O gösterimini yazınız.
-Big-O O(n^2)
+Big-O O(nlogn)
